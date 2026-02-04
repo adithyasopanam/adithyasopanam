@@ -15,9 +15,6 @@
 
 
 ## 📊 GitHub Stats
-![Adithya's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=adithyasopanam&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adithyasopanam&layout=compact&theme=radical)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adithyasopanam&theme=radical)
 

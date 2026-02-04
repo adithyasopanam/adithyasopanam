@@ -15,7 +15,7 @@
 
 
 ## 📊 GitHub Stats
-![Adithya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adithyasopanam&show_icons=true&theme=radical)
+![Adithya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adithyasopanam&show_icons=true&theme=dark)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adithyasopanam&layout=compact&theme=radical)
 

@@ -15,13 +15,14 @@
 
 
 ## 📊 GitHub Stats
-![Adithya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adithyasopanam&show_icons=true&theme=dark)
+![Adithya's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=adithyasopanam&show_icons=true&theme=dark)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adithyasopanam&layout=compact&theme=radical)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adithyasopanam&theme=radical)
 
 ![Adithya's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=adithyasopanam&theme=radical)
+
 ## 📫 Connect with Me
 - LinkedIn: https://www.linkedin.com/in/adithya-s-06april2000/
 - Email: adithyas9563@gmail.com

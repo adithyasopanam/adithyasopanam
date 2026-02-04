@@ -17,6 +17,7 @@
 ## 📊 GitHub Stats
 ![Adithya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adithyasopanam&show_icons=true&theme=radical)
 
+
 ## 📫 Connect with Me
 - LinkedIn: https://www.linkedin.com/in/adithya-s-06april2000/
 - Email: adithyas9563@gmail.com

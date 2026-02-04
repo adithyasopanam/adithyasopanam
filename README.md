@@ -16,7 +16,7 @@
 
 ## 📊 GitHub Stats
 ![Adithya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adithyasopanam&show_icons=true&theme=radical)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adithyasopanam&layout=compact&theme=radical)
 
 ## 📫 Connect with Me
 - LinkedIn: https://www.linkedin.com/in/adithya-s-06april2000/
